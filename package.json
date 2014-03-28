@@ -9,7 +9,7 @@
     "debugging",
     "exceptions"
   ],
-  "version": "0.9999.1000",
+  "version": "0.6.1-expose.meta1",
   "repository": "git://github.com/mattrobenolt/raven-node.git",
   "author": "Matt Robenolt <matt@ydekproductions.com>",
   "license": "BSD",
